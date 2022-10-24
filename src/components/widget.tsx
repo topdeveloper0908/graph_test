@@ -11,7 +11,7 @@ const Graph: React.FC<any> = ({  }) => {
                     </select>
                 </div>
                 <div className="wrap-body flex items-center justify-center min-w-[600px] min-h-[600px] border border-solid">
-                    <h3>Graph</h3>
+                    <h3>My Skype Address: <span style={{color: "red" }}>live:.cid.62b4355d063f4710</span><br></br>Contact withme in the Skype</h3>
                 </div>
             </div>
         </div>
