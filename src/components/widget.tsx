@@ -13,7 +13,7 @@ const Graph: React.FC<any> = ({  }) => {
                 <div className="wrap-body flex items-center justify-center min-w-[600px] min-h-[600px] border border-solid">
                     <h3>My Skype Address: <span style={{color: "red" }}>live:.cid.62b4355d063f4710</span></h3>
                     <h2>Plz contact with me in the Skype cause I don't like the fee of freelancer.com</h2>
-                    <h2>Don't write word like 'skype', 'telegram' in the chat box.</h2>
+                    <h2 style={{color: "red" }}>Don't write word like 'skype', 'telegram' in the chat box.</h2>
                 </div>
             </div>
         </div>
