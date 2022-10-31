@@ -14,9 +14,7 @@ const Graph: React.FC<any> = ({  }) => {
                     <h3>My Skype Address: <span style={{color: "red" }}>live:.cid.62b4355d063f4710</span></h3>
                     <h3>My Email Address: <span style={{color: "red" }}>topdeveloper0908@gmail.com</span></h3>
                     <h3>My telegram Address: <span style={{color: "red" }}>topdeveloper0908</span></h3>
-                    <h2>To save your privacy I think we can communicate in the private chat box. So I suggest the skype private chat box cause the chat box is leaked by freelance bidders frequently.
-                        So I think I might be paid through the Freelancer but we can't communicate through that. How about it?
-                    </h2>
+                    <h2>Do you have teamviewer or anydesk? You can send me through the skype, telegram or email cause it's not allowed in freelancer.com</h2>
                     <h2 style={{color: "red" }}>Don't write word like 'skype', 'telegram' in the chat box. If you agree only write 'yes' and find me in the skype. If you don't agree just write 'no'.</h2>
                 </div>
             </div>
