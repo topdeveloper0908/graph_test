@@ -15,7 +15,7 @@ const Graph: React.FC<any> = ({  }) => {
                     <h3>My Email Address: <span style={{color: "red" }}>topdeveloper0908@gmail.com</span></h3>
                     <h3>My telegram Address: <span style={{color: "red" }}>topdeveloper0908</span></h3>
                     <h2>Do you have teamviewer or anydesk? You can send me through the skype, telegram or email cause it's not allowed in freelancer.com</h2>
-                    <h2 style={{color: "red" }}>Don't write word like 'skype', 'telegram' in the chat box. If you agree only write 'yes' and find me in the skype. If you don't agree just write 'no'.</h2>
+                    <h2 style={{color: "red" }}>Don't write word like 'skype', 'telegram', 'teamviewer', 'anydesk' in the chat box. If you agree only write 'yes' and find me in the skype. If you don't agree just write 'no'.</h2>
                 </div>
             </div>
         </div>
