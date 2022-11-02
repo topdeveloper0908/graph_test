@@ -1,5 +1,12 @@
 
 const Graph: React.FC<any> = ({  }) => {
+
+    var ephemeris = require('ephemeris-moshier');
+
+    var result = ephemeris.getAllPlanets("10.08.2015 17:09:01", 10.0014, 53.5653, 0);
+
+    console.log(result);
+    
     return (
         <div className="flex items-center justify-center wrapper">
             <div className=" border border-solid p-1 min-w-[640px] min-h-[640px] wrap">

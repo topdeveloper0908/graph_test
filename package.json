@@ -14,15 +14,21 @@
     "validate": "npm-run-all --parallel type-check format-check lint build"
   },
   "dependencies": {
+    "@astrodraw/astrochart": "^3.0.0-alpha.2",
     "@reach/alert": "^0.14.0",
     "add": "^2.0.6",
+    "astrology-info": "^1.0.0",
     "classnames": "^2.2.6",
+    "ephemeris": "^2.0.0",
+    "ephemeris-moshier": "^0.0.2-dev",
     "next": "^11.1.0",
     "next-seo": "^4.22.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-icons": "^4.2.0",
-    "yarn": "^1.22.10"
+    "yarn": "^1.22.10",
+    "zodiac": "^0.1.17",
+    "zodiac-sign": "^1.2.2"
   },
   "devDependencies": {
     "@next/eslint-plugin-next": "^11.1.0",
