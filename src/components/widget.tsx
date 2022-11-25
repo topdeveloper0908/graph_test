@@ -12,7 +12,7 @@ const Graph: React.FC<any> = ({  }) => {
                     </select>
                 </div>
                 <div className="wrap-body flex items-center justify-center min-w-[600px] min-h-[600px] border border-solid">
-                    <h3>My Skype Address: <span style={{color: "red" }}>live:.cid.62b4355d063f4710</span></h3>
+                    {/* <h3>My Skype Address: <span style={{color: "red" }}>live:.cid.62b4355d063f4710</span></h3> */}
                     <h3>My Email Address: <span style={{color: "red" }}>topdeveloper0908@gmail.com</span></h3>
                     <h3>My telegram Address: <span style={{color: "red" }}>topdeveloper0908</span></h3>
                     <p>Read this carefully. Do you have skype or telegram? I want to communicate through that cause I've to send you some images and files.
